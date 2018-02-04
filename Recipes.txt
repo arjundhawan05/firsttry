@@ -8,4 +8,7 @@ Lemonade
 Coffee
 Chicken Fry
 
+Beans
+Pizza
+
 Thank you :)
